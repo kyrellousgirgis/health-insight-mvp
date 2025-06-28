@@ -12,7 +12,7 @@ A minimal React Native + Tamagui mobile interface to log daily mood, sleep, and 
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/health-insight-mvp.git
+git clone https://github.com/kyrellousgirgis/health-insight-mvp.git
 cd health-insight-mvp
 yarn install
 yarn start
